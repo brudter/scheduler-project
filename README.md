@@ -1,4 +1,4 @@
-# Work Day Scheduler Starter Code
+# Work Day Scheduler
 
 ## Description 
 For this weeks homework assignment, I built a scheduling program.
@@ -13,4 +13,3 @@ When the time is yet to come, the color is green.
 ## Link
 https://github.com/brudter/scheduler-project
 https://brudter.github.io/scheduler-project/
-
